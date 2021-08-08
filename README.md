@@ -10,7 +10,7 @@ These notebooks are recommended for use in an Azure Machine Learning [Compute In
 
 However, the notebooks can be run in any development environment with the correct `azureml` packages installed.
 
-Install the `azureml.core` Python package:
+Install the `\azureml.core` Python package:
 
 ```sh
 pip install azureml-core
